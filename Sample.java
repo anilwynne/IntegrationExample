@@ -4,7 +4,7 @@ public class Sample {
 
 		System.out.println("Hello Word");
 		
-		System.out.println("This is Java lol");
+		System.out.println("This is Java...We will rock ");
 	}
 
 }
